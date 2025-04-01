@@ -1,0 +1,15 @@
+flask
+flask-cors
+langchain
+langchain-community
+langchain-core
+langchain-groq
+fastembed
+chromadb
+python-dotenv
+PyPDF2
+transformers
+torch
+librosa
+soundfile
+numpy
